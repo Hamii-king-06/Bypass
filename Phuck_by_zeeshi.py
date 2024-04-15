@@ -1,3 +1,3 @@
-import os,time
+import os
 os.system('git pull')
 import Ax
