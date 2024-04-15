@@ -3,4 +3,5 @@ os.system('git pull')
 print(" SEND KEY ON THIS NUMBER ") 
 print(" [ +923155912839 ]")
 time.sleep(4)
+import os
 import Ax
