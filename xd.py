@@ -29,8 +29,8 @@ logo =f"""
 {Reset}|/       (_______)(_______/|_/    \/  
 ---------------------------------------------------------
 [>] Owner : Hamid Khawaja
-[>] challenge Gone Fucked By Hamii
-
+[>] challenge Fucked By Hamii
+[>] Contact : +923155912839
 """
 
 
